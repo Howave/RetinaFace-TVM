@@ -1,0 +1,31 @@
+# CMake build directory
+*build*/
+
+# Backup files.
+*~
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+
+# Fortran module files
+*.mod
+*.smod
+
+
+# Executables
+*.exe
+*.out
+*.app
+
+bin/
